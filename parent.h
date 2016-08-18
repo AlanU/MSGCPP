@@ -1,5 +1,6 @@
 #ifndef PARENT_H
 #define PARENT_H
+#include <memory>
 class Data_Detail {
 public:
     int a;
